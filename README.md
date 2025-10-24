@@ -13,5 +13,8 @@
 - 📫 How to reach me: message me on [LinkedIn](www.linkedin.com/in/mah-naqvi)
 - ⚡ **Fun fact:**  💬 “I love challenges. I love experimenting. And I never stop learning.”
 -  **Research Project:** Implemented secure user authentication using JSON Web Tokens (JWT) and password hashing with bcrypt.
+-  Collaborations:
+-  1: https://lease-link-nu.vercel.app (GitHub repo: https://github.com/daannncb/lease_link)
+-  2: https://relovehomepage.onrender.com (GitHub repo: https://github.com/cru5her5412/ReLove)
 
 
