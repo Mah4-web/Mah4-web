@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Maha.
 
-- 🎓 I'm a software development student on a mission to build cool, creative, and meaningful projects. I put my heart and soul into everything I do — whether it's writing code, solving a tricky problem, or trying a new recipe in the kitchen. ❤️
+- 🎓 I'm a Junior software developer on a mission to build cool, creative, and meaningful projects. I put my heart and soul into everything I do — whether it's writing code, solving a tricky problem, or trying a new recipe in the kitchen. ❤️
 - 🔭 I’m currently feasting on code, sipping on code, resting on code, and having wild dreams full of code.
       It’s all I am. It’s all I do. 🔥💻
 - 🌱 I’m currently learning:
