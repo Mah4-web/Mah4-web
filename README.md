@@ -4,7 +4,7 @@
 - 🔭 I’m currently feasting on code, sipping on code, resting on code, and having wild dreams full of code.
       It’s all I am. It’s all I do. 🔥💻
 - 🌱 I’m currently learning:
-  - **Frontend:** HTML, CSS, JavaScript, React, Vite, Next.js (JavaScript & TypeScript)
+  - **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React, Vite, Next.js (JavaScript & TypeScript)
   - **Backend:** Python, PostgreSQL
   - **Deployment & Tools:** Vercel, Render, Git, GitHub
   - **Project Management & Design:** Figma, Trello, Jira, DrawSQL
